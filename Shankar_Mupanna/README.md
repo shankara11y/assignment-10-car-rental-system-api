@@ -1,5 +1,7 @@
 # 🚗 Car Rental & Fleet Booking System API
 
+DEPLOYED : https://assignment-10-car-rental-system-api-1-ppb0.onrender.com/
+
 A production-ready Car Rental & Vehicle Fleet Management API built with **Node.js**, **Express.js**, and **Supabase** (PostgreSQL Cloud Database & Supabase Auth).
 
 ---
